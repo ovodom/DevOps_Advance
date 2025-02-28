@@ -182,4 +182,4 @@ c.	```cat inventory``` to read the inventory file.
 
 
 
-A close look at the commands entered on numbers 11 & 13, you discover that 11 has one command and it was on the terminal, which is a one of. As for 13 you find out it is a series of command in YAML language which are linked to form a task or various task. Note: it is reusable.
+A close look at the commands entered on numbers 11 & 13, you discover that 11 has one command and it was on the terminal, which is a one of. As for 13 you find out it is a series of command in YAML language which are linked to form a task or various task. Note: it is reusable. In conclusion 11 is ansible an adhoc command while 13 are contained ansible playbooks.
